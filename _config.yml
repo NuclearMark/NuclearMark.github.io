@@ -1,2 +1,2 @@
 theme: jekyll-theme-architect
-include: style.css
+css: "assets/style.css"
