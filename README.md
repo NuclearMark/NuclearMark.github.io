@@ -2,9 +2,9 @@
  - [Professional Self-Assessment](#Professional-Self-Assessment)
  - [Artifact Infomation](#artifact-information)
  - [Code Review](#code-review)
- - [Enhancement One : Software Design and Engineering](#enhancement-one-software-design-and-engineering)
- - [Enhancement Two : Algorithms and Data Structure](#enhancement-two-algorithms-and-data-structure)
- - [Enhancement Three : Databases](#enhancement-three-databases)
+ - [Enhancement One: Software Design and Engineering](#enhancement-one-software-design-and-engineering)
+ - [Enhancement Two: Algorithms and Data Structure](#enhancement-two-algorithms-and-data-structure)
+ - [Enhancement Three: Databases](#enhancement-three-databases)
 
 # Professional Self-Assessment
 
