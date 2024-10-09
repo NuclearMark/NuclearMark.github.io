@@ -1,3 +1,6 @@
+# About Me:
+![image](assets/images/mark_irwin_picture.jpg)
+
 # Table of Contents
  - [Professional Self-Assessment](#Professional-Self-Assessment)
  - [Artifact Infomation](#artifact-information)
@@ -17,7 +20,7 @@ Spaceship Escape!!! - The spaceship you are on has been damaged by asteroids and
 # Storyboard: Map
 Here is the layout of the spacheship rooms that survived, and the items needed to help navigate your quest.
 
-![image](assets/images/Storyboard_flowchart_item_spaceship_escape_dark.jpg)
+![image](assets/images/Storyboard_map_spaceship_escape_dark.jpg)
 
 
 # Code Review
