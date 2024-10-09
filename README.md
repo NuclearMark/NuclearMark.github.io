@@ -1,5 +1,5 @@
 # About Me:
-![image](assets/images/mark_irwin_picture.jpg)
+<img src="assets/images/mark_irwin_picture.jpg" alt="Mark" width="400" />
 
 # Table of Contents
  - [Professional Self-Assessment](#Professional-Self-Assessment)
