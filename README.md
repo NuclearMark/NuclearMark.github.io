@@ -74,7 +74,7 @@ With this enhancement I met the following course outcomes:
  “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.”
  
 -	I showcased and met this outcome by ensuring and promoting a collaborative coding environment by utilizing well documented code that broke down how my code functioned and the intent of my application. I also made sure that my code was well commented which would allow other developers to easily adjust features of the application. My code is also designed in a way that would allow for further adaptation and improvement to the code.
--	
+  
 “Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.”
 
 -	I showcased and met this outcome by ensuring that communication within my applications code and gameplay was clear. This would allow clear communication not only for the players of the application but also for any future developers that utilize my code. I also ensured that my application was appropriately adapted to the android studio environment and adapted to the needs of the users of that environment. I also utilized a clear user interface design which will help audiences better understand the application navigation.
