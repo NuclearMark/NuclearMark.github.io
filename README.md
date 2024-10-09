@@ -16,11 +16,32 @@ I love to learn, and excited to continue gaining experience and insight within t
 
 My passion for computer science and the endless opportunites that come with it have only grown since studying at South New Hampshire University. Throughout my time at SNHU my understanding and skills have developed into a skill set that has prepared me for the technical field of computer science. While working on my computer science capstone I have been able to not only refine my technical skills but also showcase showcase my strengths while also helping to enhance my professional goals. During the Computer Science program at SNHU I was able to get a strong support structure to encourage learning but also experience not only in technical projects but also group environemnts. I have developed many applications throughout my time in university, one that really showcases my graphical prowess and strong understanding of an applications goals would involve a project for cs330 which involves recreating a picture you take within a 3D environment utilizing OpenGL. 
 
-<img src="assets/images/cs330_picture.jpg" alt="Mark" width="400" /><img src="assets/images/cs330_recreation.jpg" alt="Mark" width="400" />
+<img src="assets/images/cs330_picture.jpg" alt="picture" width="400" /><img src="assets/images/cs330_recreation.jpg" alt="recreation" width="400" />
 
 This project was based on recreating an image you took that needed to have a specific amount of objects within view. I decided to make the project more complicated to help showcase my expertise by introdusing clear layers and a snow globe that features clear glass and a figure within it. Utilizing the shapes we were given to create the objects within the picture although limiting did help explore my creativity and help me reach the goals of the assignment in a way that I felt would help showcase my understanding working with OpenGL.
 
-My expertise, skills, and mindset when working within a team environment has been sharpened thanks to my time at SNHU. I have a strong understanding of the mindset you should have within a team environment and how to not only adjust to change but also excel. I also have first hand experience working within the SCRUM mindset and have a strong understanding of the SCRUM roles and goals. My understanding and expertise is only one topic that I have been able to grow expertise in, Communicating with stakeholders and users has also been an extremely important area of focus within my studies and development process. I have developed a goal and development focused mindset while ensuring I take into consideration not only the stakeholders needs but also the users needs. Ensuring I have a strong foundational understanding of how to communite the goals of the stakeholders and the needs of the users is a skill that I have been able to develop through my time at SNHU. 
+My expertise, skills, and mindset when working within a team environment has been sharpened thanks to my time at SNHU. I have a strong understanding of the mindset you should have within a team environment and how to not only adjust to change but also excel. I also have first hand experience working within the SCRUM mindset and have a strong understanding of the SCRUM roles and goals. My understanding and expertise is only one topic that I have been able to grow expertise in, Communicating with stakeholders and users has also been an extremely important area of focus within my studies and development process. I have developed a goal and development focused mindset while ensuring I take into consideration not only the stakeholders needs but also the users needs. Ensuring I have a strong foundational understanding of how to communite the goals of the stakeholders and the needs of the users is a skill that I have been able to develop through my time at SNHU. Data structures, algorithms, software engineering, and databases were all intrgral to my learning process and throughout my time at SNHU I was able to grow a strong understanding and expertise in each of these areas. I utilized my knowledge of Data structures and Algorithms to help optimize performance within my application. My expertise in Software Engineering ensured my code was maintainable, scalable, and user friendly. My database utilization helped maintain data integrity, organization and efficiency throughout my projects. By Utilizing databases within my projects I was able to ensure my data could be accessed through the application while also ensuring data collected was safe and secure. The security mindset I developed during my time of SNHU helped showcased my dedication and expertise in keeping applications, and information secure and safe from outside eyes. Security is of major importance and ensuring users continue to trust applications I work on is of extreme importance. Ensuring my ethics for computer science and my integrity are firm help ensure safe developmental practices that do not harm the users or put any users at risk. Ethics are extremely important to not only the applications success but also to the saftey of the users and the company image.
+
+For my Computer Science Capstone I utilized only one Artifact, the artifact I chose was Called SpaceShip Escape!!! and each enhancement I made on the application helped showcase my skills and expertise when demonstrating my computer science abilities. Within this ePortfolio I have showcase the following skills and abilities:
+
+- Ensuring and Promoting a collaborative coding environment.
+- Highly detailed code documention, functionality, and details.
+- Encourage code adaptation and improvement through well designed code.
+- Showcasing high level understanding of code and gameplay.
+- Support future code enhancements by other developers.
+- Android Studio Environment utilization and adaptation.
+- Supporting a strong understanding for UI/UX Design.
+- Imrpoved application navigation and audience engagement.
+- Strong understanding of optimizing code and increasing efficiency.
+- Utilizing algorithmic logic to ensure smooth application processes.
+- Database utilization and integration within an application.
+- Ability to utilize a wide range of unique databases such as MongoDB and Firebase.
+- Understanding data requirements and best database solution.
+- CRUD Utilization.
+- Android Studio Utilization and the Mobile environment for development.
+- Security mindset utilizing best practices to ensure the safety of the application and user data.
+- Data Validation and Data Encryption.
+- Application expansion and adaptation during the development process.
 
 # Artifact Information
 
