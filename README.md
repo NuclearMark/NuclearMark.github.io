@@ -16,7 +16,7 @@ I love to learn, and excited to continue gaining experience and insight within t
 
 My passion for computer science and the endless opportunites that come with it have only grown since studying at South New Hampshire University. Throughout my time at SNHU my understanding and skills have developed into a skill set that has prepared me for the technical field of computer science. While working on my computer science capstone I have been able to not only refine my technical skills but also showcase showcase my strengths while also helping to enhance my professional goals. During the Computer Science program at SNHU I was able to get a strong support structure to encourage learning but also experience not only in technical projects but also group environemnts. I have developed many applications throughout my time in university, one that really showcases my graphical prowess and strong understanding of an applications goals would involve a project for cs330 which involves recreating a picture you take within a 3D environment utilizing OpenGL. 
 
-<img src="assets/images/mark_irwin_picture.jpg" alt="Mark" width="300" /><img src="assets/images/mark_irwin_picture.jpg" alt="Mark" width="300" />
+<img src="assets/images/cs330_picture.jpg" alt="Mark" width="300" /><img src="assets/images/cs330_recreation.jpg" alt="Mark" width="300" />
 
 # Artifact Information
 
