@@ -1,6 +1,10 @@
 # About Me:
 <img src="assets/images/mark_irwin_picture.jpg" alt="Mark" width="200" />
 
+My name is Mark Irwin and welcome to my ePortfolio. I currently live in New York and have been studying computer science for many years. 
+I love to learn, and excited to continue gaining experience and insight within the field of computer science.
+
+
 # Table of Contents
  - [Professional Self-Assessment](#Professional-Self-Assessment)
  - [Artifact Infomation](#artifact-information)
