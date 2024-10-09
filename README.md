@@ -35,6 +35,8 @@ A visual look into my original python code for Spaceship escape and a breakdown 
 
 # Enhancement One: Software Design and Engineering
 
+<img src="assets/images/Enhancement_One_Spaceship_Escape_1.jpg" alt="Main Menu" width="600" /> <img src="assets/images/Enhancement_One_Spaceship_Escape_2.jpg" alt="Victory" width="600" />
+
 I chose this artifact for my ePortfolio as it would allow me to not only return to one of the first projects, I developed but also showcase how far I have come. I knew when I heard a project needed to be selected I could have so much potential in where I could take this artifact. This artifact will allow me to showcase my skills and abilities in software development by showcasing my ability to write in multiple languages, meet expectations regardless of language, showcase my ability to adapt to new coding environments to enhance functionality, and adapting to challenges. I improved the artifact by not only converting it from Python to Java but also utilizing the conversion within Android Studio making it a fully functional mobile application.
 With this enhancement I did meet the course outcomes I planned to meet with this enhancement:
  “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.”
