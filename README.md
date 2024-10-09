@@ -20,7 +20,7 @@ Spaceship Escape!!! - The spaceship you are on has been damaged by asteroids and
 # Storyboard: Map
 Here is the layout of the spacheship rooms that survived, and the items needed to help navigate your quest.
 
-<img src="assets/images/Storyboard_map_spaceship_escape_dark.jpg" alt="Storyboard map" width="400" />
+<img src="assets/images/Storyboard_map_spaceship_escape_dark.jpg" alt="Storyboard map" width="800" />
 
 
 # Code Review
