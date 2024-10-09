@@ -14,7 +14,7 @@ The artifact I have chosen is called Spaceship Escape it was a project from IT14
 
 Spaceship Escape!!! - The spaceship you are on has been damaged by asteroids and more are coming! You need to gather items needed to survive and find the code that will allow you to launch the escape pod. Because the spaceship has been damaged only Nine rooms remain active. The nine rooms are the Starting room which is the Observatory, Your room which contains personal pictures, the Water Facility which you can get water from, the Garden which will have seeds, the Cafeteria which will allow you to grab food for the trip, the Captains Room which has the escape pod launch codes, the Space Suit Locker room to grab a space suit from, the Hallway which has a lost puppy, and finally the final room the Escape Pod. Gather all Seven items and escape to freedom from the burning spaceship. But be careful another cloud of asteroids are coming; You do not have long before the entire ship will be destroyed. 
 
-![image](assests/images/storyboard_map_spaceship_escape.jpg)
+![image](assests/images/Storyboard_map_spaceship_escape.jpg)
 
 
 # Code Review
