@@ -22,6 +22,8 @@ Here is the layout of the spacheship rooms that survived, and the items needed t
 
 # Code Review
 
+A visual look into my original python code for Spaceship escape and a breakdown on planned enhancements.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/USr-XpeMr74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Enhancement One: Software Design and Engineering
